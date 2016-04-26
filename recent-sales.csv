@@ -35,7 +35,7 @@ bedrooms,bathrooms,sqfeet,city,zip,sale,type
 5,3.0,3160,Millbrae,94030,1418000,singleFamily
 4,2.0,1930,Millbrae,94030,1560000,singleFamily
 3,2.0,1720,Millbrae,94030,1204500,singleFamily
-3,1.25,1670,MILLBRAE,94030,1301000,singleFamily
+3,1.25,1670,Millbrae,94030,1301000,singleFamily
 6,4.5,3952,Millbrae,94030,2950000,singleFamily
 3,3.5,2560,Millbrae,94030,1500000,singleFamily
 4,2.0,2267,Millbrae,94030,1525000,multiFamily
